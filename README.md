@@ -17,8 +17,8 @@ Pour un budget de campagne fictif de 6 000 €, la stratégie de diffusion sur 4
 *   **YouTube Ads - 30 % du budget :** Axé sur le storytelling et la valorisation d'expériences premium (idéal pour la cible de Lucas).
 *   **TikTok Ads - 7 % du budget :** Ciblage axé sur la notoriété (TOFU) et l'engagement auprès des jeunes adultes (le public de Julien).
 
-*(Tu peux insérer ici une image illustrant la répartition de ton budget ou tes personas)*
-![Répartition Budget SMA](budget_sma.png)
+
+![Répartition Budget SMA](Répartition_budget.png)
 
 # Projections et R.O.I.
 L'estimation des performances montre une rentabilité très inégale selon les segments :
